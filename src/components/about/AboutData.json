@@ -1,0 +1,82 @@
+[
+  {
+    "itemID": 1,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-06ccce15-7289-4bb2-8577-6b2982f5896e.jpg",
+    "itemAlt": "Learn Jmeter from Scractch on Live Apps"
+  },
+  {
+    "itemID": 2,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-503e3ffb-6d8f-4d7c-99f1-289f13c96cca.jpg",
+    "itemAlt": "Java Servlet, JSP and Hibernate: Build eCommerce Website"
+  },
+  {
+    "itemID": 3,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-f8e58f08-b1e9-48e3-bd55-94ea7eacc2b7.jpg",
+    "itemAlt": "Master Spring Boot 3 and Spring Framework 6 with java"
+  },
+  {
+    "itemID": 4,
+    "itemURL": "https://udemy-certificate.s3.amazonaws.com/image/UC-dde00af9-b02c-436f-865c-2fc47e9ce9d7.jpg",
+    "itemAlt": "Selenium WebDriver with Java Basic to Advance +Frameworks"
+  },
+  {
+    "itemID": 5,
+    "itemURL": "https://drive.google.com/file/d/1uFiQ9W7-kjom1DmJd9kI7TaeZxZyh9nz/view?usp=sharing",
+    "itemAlt": "Agile Methodology Job Simulation-Cognizant."
+  },
+  {
+    "accordionID": 1,
+    "accordionTitle": "Bachelor of Engineering - BE",
+    "accordionIcon": "user-graduate",
+    "listItems": [
+      {
+        "organizationBadge": "University",
+        "organization": "RTMNU ,Nagpur University"
+      },
+      {
+        "instutionBadge": "College",
+        "instution": "PCE Nagpur"
+      },
+      { "majorBadge": "Major", "major": "Computer Technology" }
+    ]
+  },
+  {
+    "accordionID": 2,
+    "accordionTitle": "Higher Secondary-(class-XII)",
+    "accordionIcon": "book",
+    "listItems": [
+      {
+        "organizationBadge": "Board",
+        "organization": "Central Board of Secondary Education"
+      },
+      {
+        "instutionBadge": "School",
+        "instution": "St. Paul Udaipur"
+      },
+      {
+        "majorBadge": "Major",
+        "major": "Arts & Computer Application"
+      }
+     
+    ]
+  },
+  {
+    "accordionID": 3,
+    "accordionTitle": "Secondary-(class-X)",
+    "accordionIcon": "book",
+    "listItems": [
+      {
+        "organizationBadge": "Board",
+        "organization": "Central Board of Secondary Education"
+      },
+      {
+        "instutionBadge": "School",
+        "instution": "V.K.V Rishabhdeo"
+      },
+      {
+        "majorBadge": "Major",
+        "major": "PCM"
+      } 
+    ]
+  }
+]

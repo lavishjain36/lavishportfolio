@@ -1,0 +1,59 @@
+[
+  {
+    "footerBtnID": "1",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "https://www.linkedin.com/in/lavishjain36/",
+    "footerBtnBG": "#0082ca",
+    "footerBtnIcon": "linkedin-in"
+  },
+  {
+    "footerBtnID": "2",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "https://github.com/lavishjain36",
+    "footerBtnBG": "#333333",
+    "footerBtnIcon": "github"
+  },
+  {
+    "footerBtnID": "3",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "#!",
+    "footerBtnBG": "#25d366",
+    "footerBtnIcon": "whatsapp"
+  },
+  {
+    "footerBtnID": "4",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "#!",
+    "footerBtnBG": "#3b5998",
+    "footerBtnIcon": "facebook"
+  },
+  {
+    "footerBtnID": "5",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "#!",
+    "footerBtnBG": "#55acee",
+    "footerBtnIcon": "twitter"
+  },
+  {
+    "footerBtnID": "6",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "#!",
+    "footerBtnBG": "#dd4b39",
+    "footerBtnIcon": "google"
+  },
+  {
+    "footerBtnID": "7",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "#!",
+    "footerBtnBG": "#ac2bac",
+    "footerBtnIcon": "instagram"
+  },
+
+  {
+    "footerBtnID": "8",
+    "footerBtnClass": "btn btn-sm text-white",
+    "footerBtnHref": "#!",
+    "footerBtnBG": "#ffac44",
+    "footerBtnIcon": "stack-overflow"
+  }
+]

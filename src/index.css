@@ -1,0 +1,179 @@
+html {
+  scroll-behavior: smooth !important;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+  /* width of the entire scrollbar */
+  border-radius: 20px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #666;
+  /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #cfd8dc;
+  /* color of the scroll thumb */
+  border-radius: 20px;
+  /* roundness of the scroll thumb */
+  border: 2px solid rgba(150, 148, 148, 0.644);
+  /* creates padding around scroll thumb */
+}
+
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.header {
+  z-index: 10000 !important;
+}
+
+section {
+  transition: all 1s ease-in;
+}
+
+.loding {
+  transition: all 30s ease-out;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+/* .bg {
+  background-image: url("https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=800");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  transition: all .3s ease-in;
+
+} */
+
+.html {
+  background-color: #ff5722 !important;
+}
+
+.css {
+  background-color: #2962ff !important;
+}
+
+.js {
+  background-color: #ebbf2f !important;
+}
+
+.bootstrap {
+  background-color: #5e35b1 !important;
+}
+
+.react {
+  background-color: #4fc3f7 !important;
+}
+
+.node {
+  background-color: #64dd17 !important;
+}
+
+.express {
+  background-color: #424242 !important;
+}
+
+.mongo {
+  background-color: #00c853 !important;
+}
+
+.sql {
+  background-color: #0097a7 !important;
+}
+
+.rb {
+  background-color: #7c4dff !important;
+}
+
+/* .rs {
+  background-color: #7e57c2 !important;
+} */
+
+.mdb {
+  background-color: #1976d2 !important;
+}
+
+.mui {
+  background-color: #0d47a1 !important;
+}
+
+.modal_dialog {
+  max-width: none !important;
+  margin-right: 1rem !important;
+  margin-left: 1rem !important;
+}
+
+.modal::-webkit-scrollbar {
+  width: 0px !important;
+}
+
+.footer {
+  position: relative;
+}
+
+.top_btn {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border-radius: 100px;
+  /* box-shadow: .1rem .1rem .2rem rgba(0, 0, 0, 0.5); */
+  /* fallback for old browsers */
+  background: #6a11cb;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to top, rgba(106, 17, 203, 0.65), rgba(37, 117, 252, 0.65));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to top, rgba(106, 17, 203, 0.65), rgba(37, 117, 252, 0.65))
+}
+
+.vscode,
+.postman,
+.thunder,
+.git,
+.netlify,
+.vercel,
+.render,
+.mongodb,
+.hyper {
+  /* outline: antiquewhite;
+  outline-style: groove;
+  border-radius: 50%; */
+  height: 5em;
+  width: 5em;
+}
+
+.col .render {
+  width: 9em;
+  mix-blend-mode: darken !important;
+}
+
+.css-v87i24 {
+  mix-blend-mode: multiply;
+}
+
+.netlify,
+.hyper {
+  mix-blend-mode: darken !important;
+}
+
+.gradient-custom {
+  /* fallback for old browsers */
+  background: #6a85b6;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(106, 133, 182, 0.35), rgba(186, 200, 224, 0.35));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(106, 133, 182, 0.35), rgba(186, 200, 224, 0.35));
+
+  transition: all .3s ease-in;
+}
