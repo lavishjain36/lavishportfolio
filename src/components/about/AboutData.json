@@ -55,9 +55,8 @@
       },
       {
         "majorBadge": "Major",
-        "major": "Arts & Computer Application"
+        "major": "PCM"
       }
-     
     ]
   },
   {
@@ -76,7 +75,29 @@
       {
         "majorBadge": "Major",
         "major": "PCM"
-      } 
+      }
+    ]
+  },
+  {
+    "jobDetails": [
+      {
+        "company": "Guvi Geek Network Pvt. Ltd (HCL Group)",
+        "location": "Chennai",
+        "role": "Sr. Bootcamp Mentor",
+        "duration": "July 2021 - Present"
+      },
+      {
+        "company": "ProGrad Talent Solutions Pvt. Ltd (Client: Thoughtworks)",
+        "location": "Bengaluru",
+        "role": "Sr. Corporate Trainer",
+        "duration": "2020 - 2021"
+      },
+      {
+        "company": "Focus 4-d Career Education Private Limited",
+        "location": "Pune",
+        "role": "Sr. Mentor Trainer",
+        "duration": "2016 - 2020"
+      }
     ]
   }
 ]

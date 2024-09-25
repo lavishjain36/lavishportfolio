@@ -71,14 +71,15 @@ const About = () => {
             <MDBCol lg={8} className='m-auto'>
               <Fade delay={1e3} cascade damping={1e-1} triggerOnce>
                 <MDBTypography tag={'p'} className='p-5 fs-5 txt'>
-                A Software Engineer who loves to transform ideas into reality using coding.i have Good knowledge of 
-                Agile Methodologies, Cloud Aws, Software Development.
-                 I have Developed Projects like Ecommerce Application,
-                  Social Sites Website Using latest Technology like React.Js .
-                  I did project Using CI/CD pipeline tools like Jenkins with the help
-                   of Cloud Services like Aws where i created Virtual Linux server or
-                    windows Server Using Amazon Web Services . I have a good knowledge of solving problem Using Ds & Algorithm with programming Languages like C, C++, Java . I also have Experience with tools like Maven, Testng ,Junit to design and develop project using Agile Culture .
-
+                Working as a Corporate Mentor with total 10+ years of comprehensive experience in corporate training, I have had the privilege
+to train and mentor lakhs of individuals. My expertise lies in driving technological advancements by imparting knowledge
+and skills to help professionals adapt to the rapidly changing tech landscape.
+Throughout my career, I've been instrumental in shaping the careers of numerous professionals, guiding them towards
+excellence in their respective fields. My training modules are designed to be both insightful and practical, focusing on
+hands-on experience to ensure effective learning.
+In addition to corporate training, I have successfully trained trainees for boot camp courses. These courses are intensive
+and designed to equip participants with the skills required to develop full-stack applications. I take pride in my ability to
+simplify complex concepts, making them accessible and easy to understand for learners at all levels.
 
                 </MDBTypography>
               </Fade>
@@ -136,7 +137,7 @@ const About = () => {
                     animate='beat'
                   />
                 </MDBTypography>
-                Education
+               Education & Job
               </MDBBtn>
             </Slide>
             <EducationModal

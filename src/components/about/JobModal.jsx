@@ -12,7 +12,7 @@ import {
 } from 'mdb-react-ui-kit';
 import PostmanBadge from './PostmanBadge';
 // import PostmanIframeBadge from './PostmanIframeBadge';
-const AchivementModal = ({
+const JobModal = ({
   achivementModal,
   setAchivementModal,
   toggleShowAchivement,
@@ -52,4 +52,4 @@ const AchivementModal = ({
   );
 };
 
-export default AchivementModal;
+export default JobModal;
