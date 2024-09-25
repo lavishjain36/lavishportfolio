@@ -11,7 +11,7 @@ import Tools from '../tools/Tools';
 import { Zoom, AttentionSeeker } from 'react-awesome-reveal';
 import SkillData from './SkillsData.json';
 const skillData1 = SkillData.slice(0, 10);
-const skillData2 = SkillData.slice(11, 20);
+const skillData2 = SkillData.slice(11, 21);
 
 const Skills = () => {
   return (
