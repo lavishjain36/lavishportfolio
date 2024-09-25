@@ -64,11 +64,7 @@ const Navbar = () => {
                   Works/Projects
                 </MDBNavbarLink>
               </MDBNavbarItem>
-              <MDBNavbarItem>
-                <MDBNavbarLink tag={'a'} href='#!'>
-                  Experience
-                </MDBNavbarLink>
-              </MDBNavbarItem>
+            
               <MDBNavbarItem>
                 <MDBNavbarLink tag={'a'} href='#contact-me'>
                   Contact me
