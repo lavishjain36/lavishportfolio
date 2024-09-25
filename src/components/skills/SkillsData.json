@@ -232,5 +232,16 @@
     "skillNow": "35",
     "width": "95",
     "progressClass": "mui"
+  },
+  {
+    "skillID": "20",
+    "skillName": "MERN Stack",
+    "iconType": "brands",
+    "iconName": "uikit",
+    "iconSize": "sm",
+    "color": "#0d47a1",
+    "skillNow": "35",
+    "width": "95",
+    "progressClass": "mui"
   }
 ]
